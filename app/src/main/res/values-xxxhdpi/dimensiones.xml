@@ -1,0 +1,12 @@
+<resources>
+    <!--<dimen name="padding_pantalla">24dp</dimen>-->
+    <!--<dimen name="lado_casillero">160dp</dimen>-->
+    <!--<dimen name="tamanio_titulo">48sp</dimen>-->
+    <!--<dimen name="tamanio_texto_boton">36sp</dimen>-->
+    <!--<dimen name="ancho_minimo_boton">280dp</dimen>-->
+    <!--<dimen name="alto_minimo_boton">72dp</dimen>-->
+    <!--<dimen name="margen_boton">12dp</dimen>-->
+    <!--<dimen name="tamanio_boton_radio">12dp</dimen>-->
+    <!--<dimen name="padding_boton_radio">12dp</dimen>-->
+    <!--<dimen name="tamanio_texto_boton_radio">24dp</dimen>-->
+</resources>
